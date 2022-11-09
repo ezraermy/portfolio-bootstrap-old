@@ -1,4 +1,28 @@
-
 .headline {
-    padding: 289px 260px;
+  background-image: url(images/desktop_main/Header.svg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 700px;
+  padding: 289px 260px;
+  border-bottom-left-radius: 70px;
+}
+
+.about {
+  border-top-right-radius: 70px;
+}
+
+.contact-me {
+  background-image: url(images/contact-form-background.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  height: 700px;
+  background-color: #6070ff;
+  border-top-left-radius: 70px;
+}
+
+.custom-button {
+  color: #396df2;
+  background-color: red;
 }
