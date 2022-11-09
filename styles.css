@@ -8,13 +8,11 @@
   border-bottom-left-radius: 70px;
 }
 
-.row {
-  background: #fff;
-}
 .col {
   background: #e5e5e5;
   padding: 20px;
 }
+
 .justify-content-center {
   margin-top: 50px;
 }
