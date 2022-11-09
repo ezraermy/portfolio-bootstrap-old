@@ -4,20 +4,19 @@
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "sass":"sass sass/style_sass.scss sass/style_sass_css.css"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GutemaG/Hello-world.git"
+    "url": "git+https://github.com/ezraermy/portfolio-bootstrap.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GutemaG/Hello-world/issues"
+    "url": "https://github.com/ezraermy/portfolio-bootstrap/issues"
   },
-  "homepage": "https://github.com/GutemaG/Hello-world#readme",
+  "homepage": "https://github.com/ezraermy/portfolio-bootstrap#readme",
   "devDependencies": {
     "hint": "^7.1.3",
     "stylelint": "^13.13.1",
