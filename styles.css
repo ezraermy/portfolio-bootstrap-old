@@ -1,4 +1,24 @@
-
 .headline {
     padding: 289px 260px;
+}
+
+.row {
+    background: #fff;
+}
+.col {
+    background: #E5E5E5;
+    padding: 20px;
+}
+.justify-content-center {
+    margin-top: 50px;
+}
+
+.work-title {
+    margin-top: 50px;
+}
+
+.list-inline-item {
+    border: none;
+    font-size: 12px;
+    border-radius: 4px;
 }
